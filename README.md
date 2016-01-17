@@ -1,1 +1,1 @@
-My http://adventofcode.com/ solutions. Pretty much brute force solutions.
+My http://adventofcode.com/ solutions written. Pretty much brute force solutions.
